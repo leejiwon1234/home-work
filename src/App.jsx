@@ -1,6 +1,6 @@
 import './App.css';
 import ProfileCard from './components/ProfileCard';
-import profileImg from './assets/images/zi-a.png';
+import profileImg from './assets/images/남자.png';
 
 function App() {
   return (
